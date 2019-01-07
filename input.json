@@ -1,0 +1,19 @@
+{
+ "USERNAME" : "username",
+ "PASSWORD" : "password",
+ "BADGENO" : "id",
+ "L4" : "John",
+ "SUBORG" : "Deploy-APJ",
+ "REPORTINGMANAGER" : "Bob",
+ "ORIGINCOUNTRY" : "Japan",
+ "DESTINATIONCOUNTRY" : "Japan",
+ "ORIGIN" : "Tokyo",
+ "DESTINATION" : "Nagoya",
+ "FROMDATE" : "2019/1/26",
+ "NUMOFNIGHTS" : 2,
+ "REASON" : "External Customer Travel",
+ "CUSTOMER" : "Customer Name",
+ "COSTCENTER" : "ID1",
+ "PROJECTNUM" : "ID2",
+ "JUSTIFICATION" : "Onsite work" 
+}
